@@ -1,4 +1,4 @@
-package Assignment4;
+
 class Marks extends Exception{
 	
 	Marks(String message){
